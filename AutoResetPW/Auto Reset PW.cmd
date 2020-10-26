@@ -1,0 +1,1 @@
+powershell C:\Users\Public\Desktop\AutoResetPW\Auto-PW-Reset.ps1
