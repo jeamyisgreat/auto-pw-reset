@@ -1,4 +1,7 @@
-﻿Set-ExecutionPolicy unrestricted
+# this is a legacy production example of a password generator/reset tool written in PowerShell. The only way to re-produce this in your environment is
+# to replace the identifying AD attributes. :-)
+
+Set-ExecutionPolicy unrestricted
 
 #Initialize PowerShell GUI
 Add-Type -AssemblyName System.Windows.Forms
